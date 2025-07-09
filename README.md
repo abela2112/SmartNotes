@@ -43,7 +43,7 @@ SmartNotes is a modern, offline-first note-taking web app designed for journalin
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/smartnotes.git
+git clone https://github.com/abela2112/SmartNotes.git
 cd smartnotes
 
 # 2. Install dependencies
